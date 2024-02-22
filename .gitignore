@@ -1,0 +1,8 @@
+build
+.vscode
+*.pcap
+x86_64-native-linuxapp-gcc
+README.md
+go.sh
+*.log
+
